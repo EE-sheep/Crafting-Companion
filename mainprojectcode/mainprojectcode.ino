@@ -4,7 +4,8 @@ Main Code File For Craft Time Reminder
 
 
 
-Team Chestnuts: Patrick Zhu, Allison Feldman, Emily Lau
+Team: Patrick Zhu, Allison Feldman, Emily Lau
+
 
 
 
